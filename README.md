@@ -90,3 +90,11 @@ Budete vyzváni k zadání hesla. Po jeho zadání můžete začít pracovat.
 📌 Důležité poznámky
 Zadávání hesla: Při psaní hesla v terminálu se z bezpečnostních důvodů nic nezobrazuje. Stačí heslo napsat a stisknout Enter.
 Ukončení práce: Po skončení práce vždy ukončete Codespace, abyste zbytečně nečerpal volné hodiny (Vlevo dole Codespaces -> Stop Current Codespace).
+
+propojení databáze 
+PostgreSQL: Set Active Connection
+sudo service postgresql start
+
+
+kl. zkratky
+editorTextFocus && editorLangId == 'sql'
